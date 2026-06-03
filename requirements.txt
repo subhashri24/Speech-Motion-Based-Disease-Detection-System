@@ -1,7 +1,11 @@
 streamlit
+librosa
 pandas
 numpy
 matplotlib
 plotly
 scikit-learn
 joblib
+soundfile
+tensorflow
+torch
